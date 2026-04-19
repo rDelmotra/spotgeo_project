@@ -1,0 +1,75 @@
+# Data
+data/
+
+# Checkpoints & model weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs & outputs
+logs/
+runs/
+*.log
+results/
+outputs/
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.lot
+*.lof
+fair-note-wvzq/
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
